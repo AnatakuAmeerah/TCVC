@@ -22,7 +22,7 @@ function Nav() {
     return (
         <>
             <nav className="navbar">
-                <div> <img className="logo" src="./tcvc-logo.svg" loading='lazy' alt="lazy loaded logo" /></div>
+                <div> <img className="logo" src="./tcvc-logo.svg"  alt="lazy loaded logo" /></div>
                 <div className="nav-lists" ref={navRef} >
                     <p onClick={hideNavbar}>About Us</p>
                     <p onClick={hideNavbar} className='events'>Events</p>

@@ -54,9 +54,10 @@
     font-size: 16px;
     line-height: 19.2px;
     font-weight: 400;
-    color: #ffffff;
+    color: white;
     display: flex;
     align-items: center;
+    text-align: center;
     gap: 10px;
     border-radius: 10px;
     padding: 20px 90px 20px 90px;
@@ -137,7 +138,7 @@
         align-items: center;
         gap: 10px;
         border-radius: 10px;
-        padding: 20px 90px 20px 90px;
+        padding: 20px 88px 20px 88px;
         margin-bottom: 72.5px;
     }
     .if-so{

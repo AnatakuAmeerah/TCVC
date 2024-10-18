@@ -24,7 +24,7 @@ function Herosection() {
                     <p className='hero-p'>Date: 16th November 2024</p>
                     <p className='hero-p'>Venue: ATB Tech Hub 22, ita-Agemo Ward 12,<br /> Igbehin, Abeokuta, Ogun State.</p>
                     {/* youtubevideo */}
-                    <img className='img-2' src="./image 2.svg" loading='lazy' alt="image" />
+                    <img className='img-2' src="./image 2.svg" alt="image" />
                 </div>
             </section>
         </>
