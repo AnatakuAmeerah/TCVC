@@ -115,7 +115,7 @@ function Section4() {
                 </div>
 
                 <div className='footer'>
-                    <p>THE CREATIVE'S VOICE CONFERENCE 2024</p>
+                    <p>THE CREATIVES' VOICE CONFERENCE 2024</p>
                 </div>
             </section>
         </>

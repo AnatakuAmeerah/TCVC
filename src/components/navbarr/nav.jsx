@@ -24,8 +24,8 @@ function Nav() {
             <nav className="navbar">
                 <div> <img className="logo" src="./tcvc-logo.svg"  alt="lazy loaded logo" /></div>
                 <div className="nav-lists" ref={navRef} >
-                    <p onClick={hideNavbar}>About Us</p>
-                    <p onClick={hideNavbar} className='events'>Events</p>
+                    {/* <p onClick={hideNavbar}>About Us</p>
+                    <p onClick={hideNavbar} className='events'>Events</p> */}
                     {/* <button onClick={hideNavbar} className='register-btn'>Register for Event <img className='arrow' src="./white-arrow.svg" alt="arrow" /> </button> */}
                     <div>
                         <LumaCheckoutButton eventId={eventId} className="register-btn" onClick={hideNavbar}  >
