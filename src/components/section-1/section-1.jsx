@@ -53,8 +53,7 @@ function Section1() {
                     <div className='what-is-box-sub'>
                         <h3>What is "The Creatives’ Voice
                             Institute”</h3>
-                        <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.
-                            Texting autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quiunt.</h4>
+                        <h4>The Creatives' Voice Institute is a brand that provides valuable knowledge in different areas of the creative industry. It's a platform where creatives can get everything they need to grow from the basics to achieving global success.</h4>
                     </div>
                 </div>
 

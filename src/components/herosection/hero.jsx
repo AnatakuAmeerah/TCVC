@@ -9,7 +9,7 @@ function Herosection() {
                 <div className='hero-cont'>
                     <h1 className="creatives-voice">The Creatives’ Voice
                         Conference’24</h1>
-                    <h3 className='ignite'>Ignite your creativity at The Creative Voice Conference 2024 - TCVC’24.Explore new techniques, gain insights and unleash your artistic potential </h3>
+                    <h3 className='ignite'>Unlock your creative potential at The Creatives’ Voice Conference 2024 - TCVC’24. Explore new techniques, gain insights and unleash your artistic potential </h3>
                     <div className='hero-btn'>
                         {/* <button style={{backgroundColor:'#9C53EA', border:'none'}} className='hero-btn-sub'>Get your free ticket <img src="./Ticket Star.svg" alt="" /></button> */}
                         <div>
@@ -24,7 +24,7 @@ function Herosection() {
                     <p className='hero-p'>Date: 16th November 2024</p>
                     <p className='hero-p'>Venue: ATB Tech Hub 22, ita-Agemo Ward 12,<br /> Igbehin, Abeokuta, Ogun State.</p>
                     {/* youtubevideo */}
-                    <img className='img-2' src="./image 2.svg" alt="image" />
+                    <img className='img-2' src="./image 2.png" alt="image" />
                 </div>
             </section>
         </>
