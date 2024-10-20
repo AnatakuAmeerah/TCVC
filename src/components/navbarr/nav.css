@@ -64,7 +64,8 @@
 
 @media screen and (max-width:767px){
     .logo{
-        width: 80%;
+        width: 30%;
+        height: 30%;
     }
 .nav-btn{
     display: flex;
