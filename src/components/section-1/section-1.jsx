@@ -20,14 +20,14 @@ function Section1() {
                     <div></div> */}
                 </div>
                 <h1 className='checkout'>Any of this sound familiar?</h1>
-                <p className='loren-sec-1'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+                {/* <p className='loren-sec-1'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p> */}
                 <div className='blt-pt'>
                     <h4> <img src="./Arrow - Right 3.svg" alt="" />All your friends are into fraud, so it feels like that’s the only way.</h4>
                     <h4 className='blt-pt-h4'> <img src="./Arrow - Right 3.svg" alt="" /> You have no job or work that’s bringing you enough money for your daily needs.</h4>
                     <h4> <img src="./Arrow - Right 3.svg" alt="" />You are in need of mentorship and guidance on what  skill learn.</h4>
                     <h4> <img src="./Arrow - Right 3.svg" alt="" />You have a skill but you’re stuck on what to do to make money from it.</h4>
                     <h4> <img src="./Arrow - Right 3.svg" alt="" />You feel like you’re not competent enough to create the change you want.</h4>
-                    <h4> <img src="./Arrow - Right 3.svg" alt="" />Lorem ipsum dolor sit amet, consectetur adipisicing elit. </h4>
+                    {/* <h4> <img src="./Arrow - Right 3.svg" alt="" />Lorem ipsum dolor sit amet, consectetur adipisicing elit. </h4> */}
                 </div>
                 <h5 className='if-so'>If so, just know we’ve been there and you are not alone...</h5>
                 {/* <button style={{ backgroundColor: '#9C53EA', border: 'none' }} className='section1-btn-sub'>Get your free ticket <img src="./Ticket Star.svg" alt="" /></button> */}
@@ -44,8 +44,8 @@ function Section1() {
                     <div className='what-is-box-sub' >
                         <h3> What is "The Creatives’ Voice
                             Conference"</h3>
-                        <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.
-                            Texting autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quiunt.</h4>
+                        <h4>The Creatives' Voice Conference aims to empower youths with creative skills ( Content creation, Photography, Animation, Video editing, Voiceover, Podcasting etc.), industry insights, and business strategies to succeed in the creative industry. <br />
+                         At the conference, you'll learn exactly how to implement this.</h4>
                     </div>
                 </div>
                 <div className='what-is-box-2'>

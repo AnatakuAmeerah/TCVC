@@ -22,12 +22,12 @@
     width: 100%;
   }
   .grid-element-sub h5{
-    margin-top: 12px;
+    margin-top: 8px;
     font-size: 23px;
     font-weight: 700;
     font-family: SF-pro-bold;
     line-height: 27.6px;
-    margin-bottom: 6px;
+    margin-bottom: 12px;
   }
   .grid-element-sub p{
     font-size: 16px;
@@ -77,12 +77,12 @@
       
   }
   .grid-element-sub h5{
-    margin-top: 12px;
+    margin-top: 6px;
     font-size: 19px;
     font-weight: 700;
     font-family: SF-pro-bold;
     line-height: 22.8px;
-    margin-bottom: 6px;
+    margin-bottom: 11px;
   }
    .grid-2-h5{
 

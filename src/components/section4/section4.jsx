@@ -1,6 +1,7 @@
 import './section4.css';
 import Marquee from 'react-fast-marquee';
 import LumaCheckoutButton from '../registration-btn/button';
+import { FaRegCopyright } from "react-icons/fa";
 
 function Section4() {
     const eventId = 'evt-Uz3U3cUGvUcOqLq';
@@ -52,7 +53,7 @@ function Section4() {
                                 Do I have to pay to attend this event?
                             </summary>
                             <p className="summary-p">
-                                No, it's totally free, no strings attached
+                                No, it's totally free, no strings attached.
                             </p>
                         </details>
                         <details>
@@ -60,7 +61,7 @@ function Section4() {
                                 Where is the event holding?
                             </summary>
                             <p className="summary-p">
-                                The event is happening at Abeokuta, Ogun state
+                                The event is happening at Abeokuta, Ogun state.
                             </p>
                         </details>
                         <details>
@@ -68,7 +69,7 @@ function Section4() {
                                 Is there a community where I can ask questions regarding the conference?
                             </summary>
                             <p className="summary-p">
-                                Yes
+                                Yes, a link to yhe community will be sent to your email as soon as you complete your registration.
                             </p>
                         </details>
                         <details>
@@ -76,7 +77,7 @@ function Section4() {
                                 When is the event happening?
                             </summary>
                             <p className="summary-p">
-                                November 16th
+                                The event is happening on November 16th at the ATB Techhub Abeokuta.
                             </p>
                         </details>
                         <details>
@@ -84,7 +85,7 @@ function Section4() {
                                 Can I attend the event even though I'm a newbie in the creative industry?
                             </summary>
                             <p className="summary-p">
-                                Yes
+                                Yes, the conference is for everyone, either you are new to the creative industry, or you are already a professional.
                             </p>
                         </details>
                         {/* <details>
@@ -115,7 +116,7 @@ function Section4() {
                 </div>
 
                 <div className='footer'>
-                    <p>THE CREATIVES' VOICE CONFERENCE 2024</p>
+                    <p> <FaRegCopyright />THE CREATIVES' VOICE CONFERENCE 2024</p>
                 </div>
             </section>
         </>

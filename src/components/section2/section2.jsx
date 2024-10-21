@@ -12,63 +12,63 @@ function Section2() {
                         <img src="./grid-img-1.svg" alt="" />
                         <div className='grid-element-sub'>
                             <h5>Voiceover Artistry</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p>
+                            {/* <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p> */}
                         </div>
                     </div>
                     <div className='grid-elements'>
                         <img src="./grid-img-2.svg" alt="" />
                         <div className='grid-element-sub'>
                             <h5>Animation</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p>
+                            {/* <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p> */}
                         </div>
                     </div>
                     <div className='grid-elements'>
                         <img src="./grid-img-3.svg" alt="" />
                         <div className='grid-element-sub'>
                             <h5>Content Creation</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p>
+                            {/* <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p> */}
                         </div>
                     </div>
                     <div className='grid-elements'>
                         <img src="./grid-img-4.svg" alt="" />
                         <div className='grid-element-sub'>
                             <h5>Video Editing</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p>
+                            {/* <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p> */}
                         </div>
                     </div>
                     <div className='grid-elements'>
                         <img src="./grid-img-5.svg" alt="" />
                         <div className='grid-element-sub'>
                             <h5>Podcasting</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p>
+                            {/* <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p> */}
                         </div>
                     </div>
                     <div className='grid-elements'>
                         <img src="./grid-img-6.svg" alt="" />
                         <div className='grid-element-sub'>
                             <h5> Financial</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p>
+                            {/* <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p> */}
                         </div>
                     </div>
                     <div className='grid-elements'>
                         <img src="./grid-img-7.svg" alt="" />
                         <div className='grid-element-sub'>
                             <h5>Social Media Optimisation</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p>
+                            {/* <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p> */}
                         </div>
                     </div>
                     <div className='grid-elements'>
                         <img src="./grid-img-8.svg" alt="" />
                         <div className='grid-element-sub'>
                             <h5>Sales and Marketing</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p>
+                            {/* <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p> */}
                         </div>
                     </div>
                     <div className='grid-elements'>
                         <img src="./grid-img-9.svg" alt="" />
                         <div className='grid-element-sub'>
                             <h5>Nation Building</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p>
+                            {/* <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore, alias, numquam enim ab voluptate id quam harum ducimus cupiditate similique quisquam et deserunt.</p> */}
                         </div>
                     </div>
                 </div>
