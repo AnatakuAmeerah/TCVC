@@ -91,6 +91,33 @@
     line-height: 19.2px;
     font-family: SF-pro-Regular;
 }
+@media screen and (max-width:1024px){
+   .section-3-box{
+    display: flex;
+    flex-direction: column;
+    padding-left: 6rem;
+    padding-right: 6rem;
+   }
+   .wondering-why{
+    font-size: 42px;
+   }
+   .ul-1 li{
+    list-style: none;
+    display: flex;
+    gap: 2px;
+    align-items: center;
+    border: 1px solid #9C53EA;
+    padding: 0.6rem 1rem 0.6rem 1rem;
+    font-size: 16px;
+    line-height: 17.2px;
+    font-family: SF-pro-Regular;
+}
+.section3-b{
+    margin-left: 6rem;
+    margin-right: 6rem;
+    padding: 0;
+}
+}
 
 @media screen and (max-width:767px){
     .wondering-why{

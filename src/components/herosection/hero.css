@@ -84,6 +84,34 @@
     border-radius: 30px;
     margin-top: 16px;
 }
+@media screen and (max-width:1024px){
+    .creatives-voice{
+        font-size: 60px;
+        font-weight: 700;
+        line-height: 80px;
+        text-align: center;
+        margin-top: 2rem;
+        font-family: SF-pro-bold;
+       
+    }
+    .ignite{
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 35.6px;
+        text-align: center;
+        margin-top: 16px;
+        font-family: SF-pro-Regular;
+        padding-left: 6rem;
+        padding-right: 6rem;
+    }
+    .img-2{
+        width: 70%;
+    }
+    .hero-cont{
+        margin-bottom: 3rem;
+    }
+    
+}
 @media screen and (max-width:767px){
     .hero-cont{
         margin-top: 40px;

@@ -61,6 +61,12 @@
     display: none;
     text-decoration: none;
 }
+@media screen and (max-width:1024px){
+    .navbar{
+        padding-left: 6rem;
+        padding-right: 6rem;
+    }
+}
 
 @media screen and (max-width:767px){
     .logo{

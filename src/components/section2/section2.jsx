@@ -86,36 +86,20 @@ function Section2() {
                 <div className='grid-2'>
                     <div>
                         <img className='grid-2-img' src="./Group 16_preview_rev_1 1.svg" alt="" />
-                        <h5  className='grid-2-h5'>Bolaji Kolapo</h5>
+                        {/* <h5  className='grid-2-h5'>Bolaji Kolapo</h5> */}
                     </div>
                     <div>
                         <img className='grid-2-img' src="./Group 16_preview_rev_1 1.svg" alt="" />
-                        <h5  className='grid-2-h5'>Ikechukwu Ibe</h5>
+                        {/* <h5  className='grid-2-h5'>Ikechukwu Ibe</h5> */}
                     </div>
                     <div>
                         <img className='grid-2-img' src="./Group 16_preview_rev_1 1.svg" alt="" />
-                        <h5 className='grid-2-h5'>Ibim Okujagu</h5>
+                        {/* <h5 className='grid-2-h5'>Ibim Okujagu</h5> */}
                     </div>
                     <div>
                         <img className='grid-2-img' src="./Group 16_preview_rev_1 1.svg" alt="" />
-                        <h5 className='grid-2-h5'>Funke Olowookere</h5>
+                        {/* <h5 className='grid-2-h5'>Funke Olowookere</h5> */}
                     </div>
-                    {/* <div>
-                        <img className='grid-2-img' src="./Frame 8-b.svg" alt="" />
-                        <h5> Ibim Okujagu</h5>
-                    </div>
-                    <div>
-                        <img className='grid-2-img' src="./Frame 8-b.svg" alt="" />
-                        <h5>Ikechukwu Ibe</h5>
-                    </div>
-                    <div>
-                        <img className='grid-2-img' src="./Frame 8-b.svg" alt="" />
-                        <h5>Funke Olowookere</h5>
-                    </div>
-                    <div>
-                        <img className='grid-2-img' src="./Frame 8-b.svg" alt="" />
-                        <h5>Bolaji Kolapo</h5>
-                    </div> */}
                 </div>
 
             </section>
